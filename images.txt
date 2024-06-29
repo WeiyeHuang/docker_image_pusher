@@ -10,3 +10,4 @@ ubuntu
 elabftw/elabimg
 snowdreamtech/frps
 snowdreamtech/frpc
+postgres
